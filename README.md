@@ -12,6 +12,7 @@ Users should be able to:
 
 ### Screen
 
+<img width="676" alt="2021-11-29 18_20_51-Frontend Mentor _ Order summary card" src="https://user-images.githubusercontent.com/63516391/143913923-04daec36-87f4-4187-887d-6e0ee6cb05fc.png">
 
 
 <a href="">Click to See</a>
